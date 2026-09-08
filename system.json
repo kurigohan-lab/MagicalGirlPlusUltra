@@ -11,7 +11,7 @@
 
   "authors": [
     {
-      "name": "Your Name"
+      "name": "petalSoft"
     }
   ],
 
@@ -34,9 +34,9 @@
 
   "templateVersion": 1,
 
-  "manifest": "https://YOUR-WEBSITE.com/magical-girls-plus-ultra/system.json",
+  "manifest": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/edit/main/system.json",
 
-  "download": "https://YOUR-WEBSITE.com/magical-girls-plus-ultra/magical-girls-plus-ultra.zip",
+  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/magical-girls-plus-ultraV0-0.zip",
 
-  "url": "https://YOUR-WEBSITE.com/magical-girls-plus-ultra"
+  "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/edit/main/system.json"
 }
