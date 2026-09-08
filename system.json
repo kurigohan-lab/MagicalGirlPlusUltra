@@ -1,0 +1,42 @@
+{
+  "id": "magical-girls-plus-ultra",
+  "title": "Magical Girls Plus Ultra",
+  "description": "A magical girl tabletop roleplaying system for Foundry Virtual Tabletop.",
+  "version": "0.1.0",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+
+  "esmodules": [
+    "scripts/magical-girls-plus-ultra.js"
+  ],
+
+  "styles": [
+    "styles/magical-girls.css"
+  ],
+
+  "packs": [],
+
+  "documentTypes": {
+    "Actor": {
+      "magicalGirl": {}
+    },
+    "Item": {}
+  },
+
+  "templateVersion": 1,
+
+  "manifest": "https://YOUR-WEBSITE.com/magical-girls-plus-ultra/system.json",
+
+  "download": "https://YOUR-WEBSITE.com/magical-girls-plus-ultra/magical-girls-plus-ultra.zip",
+
+  "url": "https://YOUR-WEBSITE.com/magical-girls-plus-ultra"
+}
