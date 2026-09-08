@@ -34,9 +34,9 @@
 
   "templateVersion": 1,
 
-  "manifest": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/edit/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/kurigohan-lab/MagicalGirlPlusUltra/main/system.json",
 
-  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/magical-girls-plus-ultrav0-1.zip",
+  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/magical-girls-plus-ultra-v0.2.zip",
 
-  "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/edit/main/system.json"
+  "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra"
 }
