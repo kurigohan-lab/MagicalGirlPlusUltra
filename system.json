@@ -1,42 +1,30 @@
 {
-  "id": "magical-girls-plus-ultra",
-  "title": "Magical Girls Plus Ultra",
-  "description": "A magical girl tabletop roleplaying system for Foundry Virtual Tabletop.",
-  "version": "0.1.0",
-
+  "id": "metal-gear-style-system",
+  "title": "Metal Gear Style Tactical RPG",
+  "description": "Tactical dossier character system.",
+  "version": "0.15.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
   },
-
   "authors": [
     {
-      "name": "petalSoft"
+      "name": "OpenAI"
     }
   ],
-
   "esmodules": [
-    "scripts/magical-girls-plus-ultra.js"
+    "scripts/system.js"
   ],
-
   "styles": [
-    "styles/magical-girls.css"
+    "styles/system.css"
   ],
-
-  "packs": [],
-
   "documentTypes": {
     "Actor": {
-      "magicalGirl": {}
+      "agent": {}
     },
     "Item": {}
   },
-
-  "templateVersion": 1,
-
   "manifest": "https://raw.githubusercontent.com/kurigohan-lab/MagicalGirlPlusUltra/main/system.json",
-
-  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/metal-gear-style-system-v0.15.zip",
-
+  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/metal-gear-style-system-v0.16.zip",
   "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra"
 }
