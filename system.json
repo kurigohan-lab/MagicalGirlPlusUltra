@@ -9,7 +9,7 @@
   },
   "authors": [
     {
-      "name": "OpenAI"
+      "name": "petalSoft"
     }
   ],
   "esmodules": [
@@ -25,6 +25,6 @@
     "Item": {}
   },
   "manifest": "https://raw.githubusercontent.com/kurigohan-lab/MagicalGirlPlusUltra/main/system.json",
-  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/metal-gear-style-system-v0.188.zip",
+  "download": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra/releases/download/Release/metal-gear-style-system-v0.1885.zip",
   "url": "https://github.com/kurigohan-lab/MagicalGirlPlusUltra"
 }
